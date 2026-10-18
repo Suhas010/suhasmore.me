@@ -1,0 +1,13 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "suhasmore-me",
+  "compatibility_date": "2026-10-01",
+  "assets": {
+    "directory": "./public",
+    "not_found_handling": "404-page"
+  },
+  "routes": [
+    { "pattern": "suhasmore.me", "custom_domain": true },
+    { "pattern": "www.suhasmore.me", "custom_domain": true }
+  ]
+}
