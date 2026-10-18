@@ -1,0 +1,33 @@
+# Suhas More
+
+> Suhas More is a Lead Frontend Engineer at Razorpay in Bengaluru, India. Suhas owns razorpay.com's web platform end to end: CDN edge delivery, React server-side rendering, deploys, observability and on-call. Suhas has 9+ years of experience building high-traffic web platforms across fintech, media and security.
+
+## Current role
+
+- Lead Engineer, Razorpay (April 2026 – present): leads the Growth (Acquisition) frontend team and owns razorpay.com's web platform. Shipped a GenUI conversational assistant that lifted visitor-to-signup conversion by 17%, and Google Sign-In, which grew signups 30% month on month.
+
+## Experience
+
+- Senior Frontend Engineer (SDE2), Razorpay (October 2022 – March 2026): moved 1,000+ SSR routes from React 17 to React 18 streaming SSR with zero downtime. CDN errors fell from 39k to 309 per week, pod restarts from 200 per day to 0, time to first byte from 944 to 766 ms, and the cache hit ratio rose from 18.7% to 99.7%. Shipped the subscription pricing bundle across 6+ teams (4x merchants, 4.4x revenue). Built Website Sherlock, an MCP on-call agent. Edison of Payments award, July 2023.
+- Frontend Engineer (SDE), Razorpay (June 2021 – October 2022): shipped the industry's first UPI Intent for recurring payments, working with NPCI, SBI and the PSPs.
+- Frontend Engineer, The Walt Disney Company, Mumbai (November 2018 – June 2021): built the web for India's largest TV network; added client-side caching and rewrote the service layer.
+- Software Developer, Coditas, Pune (February – November 2018): built a reusable React component library that cut application load time by 12%.
+- Software Engineer, SpringCT, Pune (January 2017 – January 2018): promoted from intern to engineer in six months; built a security-awareness training platform in React.
+
+## Expertise
+
+React, TypeScript, Node.js server-side rendering, web performance and Core Web Vitals, AWS CloudFront and Lambda@Edge, Kubernetes, observability (Coralogix, Grafana, Prometheus), Model Context Protocol (MCP) and AI engineering, UPI and recurring payments.
+
+## Education
+
+- M.Sc. Computer Science, Wadia College, Pune (2017)
+- B.Sc. Computer Science, Savitribai Phule Pune University (2015)
+
+## Links
+
+- [Website](https://suhasmore.me/)
+- [GitHub](https://github.com/suhas010)
+- [LinkedIn](https://www.linkedin.com/in/suhas-more/)
+- [Medium](https://suhas010.medium.com/)
+- [Book a call](https://topmate.io/suhas010)
+- Email: more.suhas.r@gmail.com

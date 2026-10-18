@@ -1,0 +1,7 @@
+# Search engines and AI answer engines are welcome.
+User-agent: *
+Allow: /
+Disallow: /archive/
+Disallow: /tmp/
+
+Sitemap: https://suhasmore.me/sitemap.xml
